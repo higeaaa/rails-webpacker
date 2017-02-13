@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015-riot": "^1.1.0",
+    "babel-preset-latest": "^6.22.0",
+    "bootstrap-sass": "^3.3.7",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.12.3",
+    "file-loader": "^0.10.0",
+    "font-awesome": "^4.7.0",
+    "font-awesome-webpack2": "^0.0.6",
+    "less": "^2.7.2",
+    "node-sass": "^4.5.0",
+    "path-complete-extname": "^0.1.0",
+    "promise-polyfill": "^6.0.2",
+    "rails-erb-loader": "^3.2.0",
+    "riot": "^3.2.1",
+    "riotjs-loader": "^4.0.0",
+    "sass-loader": "^5.0.1",
+    "url-loader": "^0.5.7",
+    "webpack": "beta",
+    "webpack-dev-server": "beta",
+    "webpack-merge": "^2.6.1"
+  }
+}
