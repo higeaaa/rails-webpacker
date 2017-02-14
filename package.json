@@ -1,0 +1,10 @@
+{
+  "name": "rails-riot-webpacker",
+  "description": "\"dummy package.json for heroku/nodejs buildpack support.\"",
+  "engines":{
+    "node": "6.5.0"
+  },
+  "dependencies": {
+    "yarn": "0.19.1"
+  }
+}
